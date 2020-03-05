@@ -10,10 +10,10 @@ Sonar beam ensonified part of the tree (illustrated in red). The echoes are show
 ![a Ginkgo tree with echoes](/figures/clustered.png)
 
 ## Pine examples
-### An example of a dense pine tree. The bundles of needles are simplified to a blob in the following picture. In the model, each needle is approximated with a tiny disc.
+An example of a dense pine tree. The bundles of needles are simplified to a blob in the following picture. In the model, each needle is approximated with a tiny disc.
 ![a dense pine tree](/figures/pine_wleafColor_cropped.png)
 
-### A sound source is approaching a pine tree.
+A sound source is approaching a pine tree.
 ![approach1](/figures/pine_appro1.png)
 
 ![approach2](/figures/pine_appro5.png)
