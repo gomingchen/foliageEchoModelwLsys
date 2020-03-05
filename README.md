@@ -1,6 +1,6 @@
 # foliageEchoModelwLsys
 Instead of uniform distribution, the leaves (scatters/discs) are distributed according to L-system to mimic the lifelike tree geometry
-
+## Ginkgo examples
 A ginkgo tree generated from L-system in this model. A leaf is approximated as a disc. Note: the branches are not included in the scattering model. They are plotted for illustration purposes.
 
 ![a Ginkgo tree grown in L-system](/figures/ginkgoNreps5.png)
@@ -8,6 +8,9 @@ A ginkgo tree generated from L-system in this model. A leaf is approximated as a
 
 Sonar beam ensonified part of the tree (illustrated in red). The echoes are shown in the top right corner, and the ensonified leaves are shown in top left corner from top view.
 ![a Ginkgo tree with echoes](/figures/clustered.png)
+
+## Pine examples
+![a dense pine tree](/figures/pine_wleafColor.eps)
 
 # How to run the code:
 ### Ginkgo growth pattern
