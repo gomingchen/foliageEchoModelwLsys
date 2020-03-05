@@ -14,6 +14,7 @@ An example of a dense pine tree. The bundles of needles are simplified to a blob
 ![a dense pine tree](/figures/pine_wleafColor_cropped.png)
 
 A sound source is approaching a pine tree.
+
 ![approach1](/figures/pine_appro1.png)
 
 ![approach2](/figures/pine_appro5.png)
